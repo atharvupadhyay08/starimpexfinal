@@ -38,9 +38,9 @@ export default function ContactPage() {
           <div className="flex justify-between items-center h-16">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">SP</span> {/* Changed SI to SP */}
+                <span className="text-white font-bold text-lg">SI</span> {/* Changed SI to SP */}
               </div>
-              <span className="text-xl font-semibold text-gray-900">Star Project</span> {/* Changed Star Impex */}
+              <span className="text-xl font-semibold text-gray-900">Star Impex</span> {/* Changed Star Impex */}
             </Link>
 
             <div className="hidden md:flex space-x-8">
@@ -70,7 +70,7 @@ export default function ContactPage() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Header */}
         <div className="text-center mb-16">
-          <h1 className="text-4xl font-bold text-gray-900 mb-6">Get in Touch with Star Project</h1>{" "}
+          <h1 className="text-4xl font-bold text-gray-900 mb-6">Get in Touch with Star Impex</h1>{" "}
           {/* Changed Star Impex */}
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             Whether you have inquiries about our advanced machinery, require technical assistance, or wish to discuss
@@ -90,11 +90,11 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-2">Our Global Headquarters</h3>
                     <p className="text-gray-600">
-                      789 Innovation Way
+                      786 Innovation ways
                       <br />
-                      Tech City, TX 78701
+                      Tech city , indore
                       <br />
-                      United States
+                      India
                     </p>
                   </div>
                 </div>
@@ -110,11 +110,11 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-2">Direct Lines</h3>
                     <p className="text-gray-600">
-                      Sales & Inquiries: (888) 765-4321
+                      Sales & Inquiries: (91) 99999-88888
                       <br />
-                      Technical Support: (888) 765-4322
+                      Technical Support: (91) 22222-22222
                       <br />
-                      International: +1 (888) 765-4323
+                      International: +1 (91) 11111-11111
                     </p>
                   </div>
                 </div>
@@ -130,11 +130,11 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-2">Email Correspondence</h3>
                     <p className="text-gray-600">
-                      General Information: info@starproject.com
+                      General Information: info@starimpex.com
                       <br />
-                      Sales Department: sales@starproject.com
+                      Sales Department: sales@starimpex.com
                       <br />
-                      Support Team: support@starproject.com
+                      Support Team: support@starimpex.com
                     </p>
                   </div>
                 </div>
@@ -150,9 +150,9 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-2">Operating Hours</h3>
                     <p className="text-gray-600">
-                      Monday - Friday: 9:00 AM - 7:00 PM (EST)
+                      Monday - Friday: 9:00 AM - 7:00 PM (IST)
                       <br />
-                      Saturday: 10:00 AM - 3:00 PM (EST)
+                      Saturday: 10:00 AM - 3:00 PM (IST)
                       <br />
                       Sunday: Closed (Online support available)
                     </p>
@@ -244,7 +244,7 @@ export default function ContactPage() {
               <CardContent className="p-6">
                 <h3 className="font-semibold text-gray-900 mb-3">What is your warranty policy?</h3>
                 <p className="text-gray-600">
-                  All Star Project machines come with a standard 3-year limited warranty covering manufacturing defects
+                  All Star Impex machines come with a standard 3-year limited warranty covering manufacturing defects
                   and key components. Extended warranty options are available for purchase.
                 </p>
               </CardContent>

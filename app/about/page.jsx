@@ -14,17 +14,17 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: "atharv upadhyay",
-      role: "CEO & Visionary",
+      name: "Atharv upadhyay",
+      role: "Developer",
       image: "/placeholder.svg?height=300&width=300",
     },
     {
       name: "abhay  acharaya",
-      role: "Chief Engineering Officer",
+      role: "CEO",
       image: "/placeholder.svg?height=300&width=300",
     },
     {
-      name: "ya ya ",
+      name: " lokesh ",
       role: "Head of Customer Success",
       image: "/placeholder.svg?height=300&width=300",
     },
@@ -38,7 +38,7 @@ export default function AboutPage() {
           <div className="flex justify-between items-center h-16">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">SP</span> {/* Changed SI to SP */}
+                <span className="text-white font-bold text-lg">SI</span> {/* Changed SI to SP */}
               </div>
               <span className="text-xl font-semibold text-gray-900">Star Impex</span> {/* Changed Star Impex */}
             </Link>
